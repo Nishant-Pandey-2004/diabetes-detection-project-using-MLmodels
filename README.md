@@ -17,7 +17,7 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 
 
 ## Installation
-To run the project locally, follow these steps:
+To run the project locally in your machine, follow these steps:
 
 1. Clone the repository:
 ```bash
